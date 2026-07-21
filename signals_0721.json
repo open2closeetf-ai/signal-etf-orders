@@ -14,12 +14,12 @@
       "name": "銀行"
     },
     {
-      "code": "1618",
-      "name": "エネ"
-    },
-    {
       "code": "1632",
       "name": "金融"
+    },
+    {
+      "code": "1618",
+      "name": "エネ"
     }
   ],
   "sell_signals": [
@@ -36,25 +36,25 @@
       "name": "食品"
     },
     {
-      "code": "1628",
-      "name": "運輸"
+      "code": "1620",
+      "name": "化学"
     },
     {
-      "code": "1630",
-      "name": "小売"
+      "code": "1628",
+      "name": "運輸"
     }
   ],
   "order_qtys": [
     1,
     390,
     2,
+    2,
+    3,
+    8,
     3,
     2,
-    9,
-    3,
     2,
-    4,
-    2
+    4
   ],
-  "dup_url": "https://note.com/signal_etf/n/nab1f868884ce"
+  "dup_url": "https://note.com/signal_etf/n/nb0704d6ba8c8"
 }
