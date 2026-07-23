@@ -1,0 +1,17 @@
+{
+  "07/23": {
+    "date": "07/23",
+    "pnl_33": {
+      "baseline": -4026,
+      "strategy_A": 170,
+      "strategy_B": -3886,
+      "strategy_C": -3746
+    },
+    "pnl_66": {
+      "baseline": -8910,
+      "strategy_A": 595,
+      "strategy_B": -8890,
+      "strategy_C": -8870
+    }
+  }
+}
