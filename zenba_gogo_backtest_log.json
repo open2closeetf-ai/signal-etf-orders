@@ -58,5 +58,20 @@
       "strategy_B": -21334,
       "strategy_C": -22944
     }
+  },
+  "07/29": {
+    "date": "07/29",
+    "pnl_33": {
+      "baseline": 10691,
+      "strategy_A": 2020,
+      "strategy_B": 11631,
+      "strategy_C": 12571
+    },
+    "pnl_66": {
+      "baseline": 24448,
+      "strategy_A": 4945,
+      "strategy_B": 26328,
+      "strategy_C": 28208
+    }
   }
 }
