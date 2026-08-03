@@ -22,5 +22,11 @@
     "us_filter_direction": "陰線",
     "baseline_pct": 5.372,
     "directional_pct": 5.163
+  },
+  "08/03": {
+    "date": "08/03",
+    "us_filter_direction": "陽線",
+    "baseline_pct": -3.66,
+    "directional_pct": -4.609
   }
 }
