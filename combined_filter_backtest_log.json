@@ -7,5 +7,14 @@
     "strategy_1_2": -7970,
     "strategy_X": -7970,
     "strategy_Y": 0
+  },
+  "08/04": {
+    "date": "08/04",
+    "us_filter_direction": "陽線",
+    "baseline": -1615,
+    "strategy_1": -2115,
+    "strategy_1_2": -3555,
+    "strategy_X": -3090,
+    "strategy_Y": -465
   }
 }
