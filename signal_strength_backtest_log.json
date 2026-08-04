@@ -2,7 +2,7 @@
   "08/04": {
     "date": "08/04",
     "total_score": 0.019,
-    "baseline_pct": -1.689,
+    "baseline_pct": -0.758,
     "threshold_results": {
       "0.15": {
         "entered": false,
