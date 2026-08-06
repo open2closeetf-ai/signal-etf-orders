@@ -48,7 +48,7 @@
   "08/06": {
     "date": "08/06",
     "total_score": 0.0088,
-    "baseline_pct": -1.0,
+    "baseline_pct": -1.616,
     "threshold_results": {
       "0.15": {
         "entered": false,
