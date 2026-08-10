@@ -94,7 +94,7 @@
   "08/10": {
     "date": "08/10",
     "total_score": 0.0558,
-    "baseline_pct": 2.406,
+    "baseline_pct": 2.096,
     "threshold_results": {
       "0.15": {
         "entered": false,
