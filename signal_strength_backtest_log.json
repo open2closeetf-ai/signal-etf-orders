@@ -117,15 +117,15 @@
   "08/12": {
     "date": "08/12",
     "total_score": 0.0278,
-    "baseline_pct": 0.541,
+    "baseline_pct": 1.452,
     "threshold_results": {
       "0.01": {
         "entered": true,
-        "pnl_if_entered": 0.541
+        "pnl_if_entered": 1.452
       },
       "0.02": {
         "entered": true,
-        "pnl_if_entered": 0.541
+        "pnl_if_entered": 1.452
       },
       "0.03": {
         "entered": false,
