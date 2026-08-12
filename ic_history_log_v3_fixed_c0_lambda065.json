@@ -1,0 +1,336 @@
+{
+  "generated_at": "2026-08-12T10:06:58.553166",
+  "lambda_reg": 0.65,
+  "note": "US 9セクター（XLC・XLRE除外）、C0固定期間2010-01-01〜2014-12-31",
+  "summary": {
+    "n": 32,
+    "mean_ic": -0.0416,
+    "std_ic": 0.2662,
+    "t_stat": -0.884,
+    "mean_ls_spread_pct": -0.173
+  },
+  "monthly_summary": {
+    "2024-01": {
+      "n": 1,
+      "mean_ic": -0.4093
+    },
+    "2024-02": {
+      "n": 1,
+      "mean_ic": -0.1471
+    },
+    "2024-03": {
+      "n": 1,
+      "mean_ic": 0.2696
+    },
+    "2024-04": {
+      "n": 1,
+      "mean_ic": 0.1642
+    },
+    "2024-05": {
+      "n": 1,
+      "mean_ic": -0.0294
+    },
+    "2024-06": {
+      "n": 1,
+      "mean_ic": -0.1078
+    },
+    "2024-07": {
+      "n": 1,
+      "mean_ic": 0.4632
+    },
+    "2024-08": {
+      "n": 1,
+      "mean_ic": -0.1029
+    },
+    "2024-09": {
+      "n": 1,
+      "mean_ic": 0.0172
+    },
+    "2024-10": {
+      "n": 1,
+      "mean_ic": 0.2941
+    },
+    "2024-11": {
+      "n": 1,
+      "mean_ic": -0.3088
+    },
+    "2024-12": {
+      "n": 1,
+      "mean_ic": -0.1152
+    },
+    "2025-01": {
+      "n": 1,
+      "mean_ic": 0.1201
+    },
+    "2025-02": {
+      "n": 1,
+      "mean_ic": -0.0221
+    },
+    "2025-03": {
+      "n": 1,
+      "mean_ic": -0.223
+    },
+    "2025-04": {
+      "n": 1,
+      "mean_ic": 0.3186
+    },
+    "2025-05": {
+      "n": 1,
+      "mean_ic": -0.1078
+    },
+    "2025-06": {
+      "n": 1,
+      "mean_ic": -0.2377
+    },
+    "2025-07": {
+      "n": 1,
+      "mean_ic": -0.0294
+    },
+    "2025-08": {
+      "n": 1,
+      "mean_ic": 0.4412
+    },
+    "2025-09": {
+      "n": 1,
+      "mean_ic": 0.1029
+    },
+    "2025-10": {
+      "n": 1,
+      "mean_ic": -0.7721
+    },
+    "2025-11": {
+      "n": 1,
+      "mean_ic": -0.1127
+    },
+    "2025-12": {
+      "n": 1,
+      "mean_ic": 0.0809
+    },
+    "2026-01": {
+      "n": 1,
+      "mean_ic": 0.0074
+    },
+    "2026-02": {
+      "n": 1,
+      "mean_ic": 0.0123
+    },
+    "2026-03": {
+      "n": 1,
+      "mean_ic": -0.4142
+    },
+    "2026-04": {
+      "n": 1,
+      "mean_ic": 0.2794
+    },
+    "2026-05": {
+      "n": 1,
+      "mean_ic": -0.0784
+    },
+    "2026-06": {
+      "n": 1,
+      "mean_ic": -0.326
+    },
+    "2026-07": {
+      "n": 1,
+      "mean_ic": -0.0245
+    },
+    "2026-08": {
+      "n": 1,
+      "mean_ic": -0.3333
+    }
+  },
+  "checkpoint_results": [
+    {
+      "date": "2024-01-02",
+      "next_trading_day": "2024-01-03",
+      "ic": -0.4093,
+      "long_short_spread_pct": -0.386
+    },
+    {
+      "date": "2024-02-01",
+      "next_trading_day": "2024-02-02",
+      "ic": -0.1471,
+      "long_short_spread_pct": -0.087
+    },
+    {
+      "date": "2024-03-01",
+      "next_trading_day": "2024-03-04",
+      "ic": 0.2696,
+      "long_short_spread_pct": 0.458
+    },
+    {
+      "date": "2024-04-01",
+      "next_trading_day": "2024-04-02",
+      "ic": 0.1642,
+      "long_short_spread_pct": 0.265
+    },
+    {
+      "date": "2024-05-01",
+      "next_trading_day": "2024-05-02",
+      "ic": -0.0294,
+      "long_short_spread_pct": 0.022
+    },
+    {
+      "date": "2024-06-03",
+      "next_trading_day": "2024-06-04",
+      "ic": -0.1078,
+      "long_short_spread_pct": -0.463
+    },
+    {
+      "date": "2024-07-01",
+      "next_trading_day": "2024-07-02",
+      "ic": 0.4632,
+      "long_short_spread_pct": 0.949
+    },
+    {
+      "date": "2024-08-01",
+      "next_trading_day": "2024-08-02",
+      "ic": -0.1029,
+      "long_short_spread_pct": -0.131
+    },
+    {
+      "date": "2024-09-02",
+      "next_trading_day": "2024-09-03",
+      "ic": 0.0172,
+      "long_short_spread_pct": 0.439
+    },
+    {
+      "date": "2024-10-01",
+      "next_trading_day": "2024-10-02",
+      "ic": 0.2941,
+      "long_short_spread_pct": 0.289
+    },
+    {
+      "date": "2024-11-01",
+      "next_trading_day": "2024-11-04",
+      "ic": -0.3088,
+      "long_short_spread_pct": -0.927
+    },
+    {
+      "date": "2024-12-02",
+      "next_trading_day": "2024-12-03",
+      "ic": -0.1152,
+      "long_short_spread_pct": -0.024
+    },
+    {
+      "date": "2025-01-02",
+      "next_trading_day": "2025-01-03",
+      "ic": 0.1201,
+      "long_short_spread_pct": 0.082
+    },
+    {
+      "date": "2025-02-03",
+      "next_trading_day": "2025-02-04",
+      "ic": -0.0221,
+      "long_short_spread_pct": -0.358
+    },
+    {
+      "date": "2025-03-03",
+      "next_trading_day": "2025-03-04",
+      "ic": -0.223,
+      "long_short_spread_pct": -1.116
+    },
+    {
+      "date": "2025-04-01",
+      "next_trading_day": "2025-04-02",
+      "ic": 0.3186,
+      "long_short_spread_pct": 0.279
+    },
+    {
+      "date": "2025-05-01",
+      "next_trading_day": "2025-05-02",
+      "ic": -0.1078,
+      "long_short_spread_pct": -1.173
+    },
+    {
+      "date": "2025-06-02",
+      "next_trading_day": "2025-06-03",
+      "ic": -0.2377,
+      "long_short_spread_pct": -0.37
+    },
+    {
+      "date": "2025-07-01",
+      "next_trading_day": "2025-07-02",
+      "ic": -0.0294,
+      "long_short_spread_pct": -0.029
+    },
+    {
+      "date": "2025-08-01",
+      "next_trading_day": "2025-08-04",
+      "ic": 0.4412,
+      "long_short_spread_pct": 0.466
+    },
+    {
+      "date": "2025-09-01",
+      "next_trading_day": "2025-09-02",
+      "ic": 0.1029,
+      "long_short_spread_pct": 0.49
+    },
+    {
+      "date": "2025-10-01",
+      "next_trading_day": "2025-10-02",
+      "ic": -0.7721,
+      "long_short_spread_pct": -2.222
+    },
+    {
+      "date": "2025-11-03",
+      "next_trading_day": "2025-11-04",
+      "ic": -0.1127,
+      "long_short_spread_pct": -0.132
+    },
+    {
+      "date": "2025-12-01",
+      "next_trading_day": "2025-12-02",
+      "ic": 0.0809,
+      "long_short_spread_pct": 0.502
+    },
+    {
+      "date": "2026-01-02",
+      "next_trading_day": "2026-01-05",
+      "ic": 0.0074,
+      "long_short_spread_pct": 0.078
+    },
+    {
+      "date": "2026-02-02",
+      "next_trading_day": "2026-02-03",
+      "ic": 0.0123,
+      "long_short_spread_pct": 0.03
+    },
+    {
+      "date": "2026-03-02",
+      "next_trading_day": "2026-03-03",
+      "ic": -0.4142,
+      "long_short_spread_pct": -1.307
+    },
+    {
+      "date": "2026-04-01",
+      "next_trading_day": "2026-04-02",
+      "ic": 0.2794,
+      "long_short_spread_pct": 1.003
+    },
+    {
+      "date": "2026-05-01",
+      "next_trading_day": "2026-05-04",
+      "ic": -0.0784,
+      "long_short_spread_pct": 0.293
+    },
+    {
+      "date": "2026-06-01",
+      "next_trading_day": "2026-06-02",
+      "ic": -0.326,
+      "long_short_spread_pct": -0.852
+    },
+    {
+      "date": "2026-07-01",
+      "next_trading_day": "2026-07-02",
+      "ic": -0.0245,
+      "long_short_spread_pct": -0.651
+    },
+    {
+      "date": "2026-08-03",
+      "next_trading_day": "2026-08-04",
+      "ic": -0.3333,
+      "long_short_spread_pct": -0.96
+    }
+  ]
+}
