@@ -163,11 +163,11 @@
   "08/14": {
     "date": "08/14",
     "total_score": 0.0137,
-    "baseline_pct": 5.133,
+    "baseline_pct": 5.049,
     "threshold_results": {
       "0.01": {
         "entered": true,
-        "pnl_if_entered": 5.133
+        "pnl_if_entered": 5.049
       },
       "0.02": {
         "entered": false,
