@@ -79,5 +79,14 @@
     "strategy_1_2": 3180,
     "strategy_X": 2880,
     "strategy_Y": 300
+  },
+  "08/17": {
+    "date": "08/17",
+    "us_filter_direction": "陽線",
+    "baseline": -2766,
+    "strategy_1": -3286,
+    "strategy_1_2": -3627,
+    "strategy_X": -3627,
+    "strategy_Y": 0
   }
 }
