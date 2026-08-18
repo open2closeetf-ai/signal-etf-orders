@@ -209,11 +209,11 @@
   "08/18": {
     "date": "08/18",
     "total_score": 0.0187,
-    "baseline_pct": -2.204,
+    "baseline_pct": -1.788,
     "threshold_results": {
       "0.01": {
         "entered": true,
-        "pnl_if_entered": -2.204
+        "pnl_if_entered": -1.788
       },
       "0.02": {
         "entered": false,
