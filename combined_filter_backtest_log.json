@@ -106,5 +106,14 @@
     "strategy_1_2": 4145,
     "strategy_X": 3035,
     "strategy_Y": 1110
+  },
+  "08/20": {
+    "date": "08/20",
+    "us_filter_direction": "陽線",
+    "baseline": 590,
+    "strategy_1": 850,
+    "strategy_1_2": 1050,
+    "strategy_X": 1230,
+    "strategy_Y": -180
   }
 }
