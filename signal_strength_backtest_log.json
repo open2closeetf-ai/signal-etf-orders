@@ -343,5 +343,28 @@
         "pnl_if_entered": 0.0
       }
     }
+  },
+  "08/26": {
+    "date": "08/26",
+    "total_score": 0.043,
+    "baseline_pct": -6.281,
+    "threshold_results": {
+      "0.01": {
+        "entered": true,
+        "pnl_if_entered": -6.281
+      },
+      "0.02": {
+        "entered": true,
+        "pnl_if_entered": -6.281
+      },
+      "0.03": {
+        "entered": true,
+        "pnl_if_entered": -6.281
+      },
+      "0.04": {
+        "entered": true,
+        "pnl_if_entered": -6.281
+      }
+    }
   }
 }
