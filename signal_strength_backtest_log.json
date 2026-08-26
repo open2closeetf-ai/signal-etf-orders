@@ -347,23 +347,23 @@
   "08/26": {
     "date": "08/26",
     "total_score": 0.043,
-    "baseline_pct": 0.911,
+    "baseline_pct": 0.614,
     "threshold_results": {
       "0.01": {
         "entered": true,
-        "pnl_if_entered": 0.911
+        "pnl_if_entered": 0.614
       },
       "0.02": {
         "entered": true,
-        "pnl_if_entered": 0.911
+        "pnl_if_entered": 0.614
       },
       "0.03": {
         "entered": true,
-        "pnl_if_entered": 0.911
+        "pnl_if_entered": 0.614
       },
       "0.04": {
         "entered": true,
-        "pnl_if_entered": 0.911
+        "pnl_if_entered": 0.614
       }
     }
   }
