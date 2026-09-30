@@ -331,5 +331,14 @@
     "strategy_1_2": 5293,
     "strategy_X": 4726,
     "strategy_Y": 567
+  },
+  "09/30": {
+    "date": "09/30",
+    "us_filter_direction": "陰線",
+    "baseline": -2210,
+    "strategy_1": -7685,
+    "strategy_1_2": -3132,
+    "strategy_X": -2502,
+    "strategy_Y": -630
   }
 }
